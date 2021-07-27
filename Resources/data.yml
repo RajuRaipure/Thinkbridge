@@ -1,0 +1,5 @@
+ThinkbridegURL:
+- URL::http://jt-dev.azurewebsites.net/#/SignUp
+
+BrowserInfo:
+- BrowserDriver::Chrome
