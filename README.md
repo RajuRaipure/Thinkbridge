@@ -34,3 +34,13 @@ Auotomated Testcase-
 2) Verification of UI
 3)Verification of Page navigation
 4)Verification of API calls(Storing and retreving data from database)
+
+Question 2 - Completed
+Question 3-
+1) Click here should be a hyperlink
+2) Title and First Name should be in different row for customer readability and usability.
+3) Under Help section list of document should be properly mentioned
+4) All the text boxes should be of equal shape and size
+5) Give spacing between radio buttons and text for proper readability
+6) Error message under Upload Required Document's section should be aligned properly
+7) View Terms & Condition should be a proper link
